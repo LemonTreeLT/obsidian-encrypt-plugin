@@ -6,3 +6,29 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.password-modal-input {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+}
+
+.password-modal-buttons {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+
+.password-modal-button {
+	padding: 10px 20px;
+	cursor: pointer;
+}
+
+.forced-decrypt-button {
+	color: red;
+	padding: 10px 20px;
+	cursor: pointer;
+}
+

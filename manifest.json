@@ -3,7 +3,7 @@
 	"name": "Encrypt Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "An obsidian plugin for encrypting your notes",
 	"author": "LemonTree",
 	"authorUrl": "https://github.com/LemonTreeLT",
 	"isDesktopOnly": false
